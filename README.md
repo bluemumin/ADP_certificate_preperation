@@ -23,6 +23,8 @@ https://bluemumin.github.io/ps/2021/03/10/Python&SQL-20%ED%9A%8C-ADP-%EC%8B%A4%E
 
 에 게시를 해 두었다.
 
+------------------------------------------------------------------------
+
 4,5번은 통계분석 검증, 데이터 처리 버전에 대한 것들을 정리해두었고
 
 https://bluemumin.github.io/ps/2021/03/14/Python&SQL-20%ED%9A%8C-ADP-%EC%8B%A4%EA%B8%B0-python-%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D(%EA%B0%81%EC%A2%85-%ED%86%B5%EA%B3%84-%EB%B6%84%EC%84%9D)/
@@ -30,6 +32,8 @@ https://bluemumin.github.io/ps/2021/03/14/Python&SQL-20%ED%9A%8C-ADP-%EC%8B%A4%E
 https://bluemumin.github.io/ps/2021/03/16/Python&SQL-20%ED%9A%8C-ADP-%EC%8B%A4%EA%B8%B0-python-%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D(%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC)/
 
 에 게시를 해두었다.
+
+------------------------------------------------------------------------
 
 6번의 경우는 사실상 참고용으로 추가 패키지 설치가 허용 공지가 되지 않았을 때,
 
