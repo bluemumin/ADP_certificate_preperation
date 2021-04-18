@@ -1,0 +1,29 @@
+library(MASS)
+small.model <- lm(Fertility ~1 , data = swiss)
+full.model <- lm(Fertility ~. , data = swiss)
+
+step.model <- step(small.model, scope = list(lower ~ 1, 
+	upper = ~Agriculture+Examination+Education+Catholic+Infant.Mortality), direction = 'forward', trace =FALSE)
+summary(step.model)
+
+step.model <- step(full.model, scope = list(lower ~ 1, 
+	upper = ~Agriculture+Examination+Education+Catholic+Infant.Mortality), direction = 'backward', trace =FALSE)
+summary(step.model)
+
+step.model <- step(small.model, scope = list(lower ~ 1, 
+	upper = ~Agriculture+Examination+Education+Catholic+Infant.Mortality), direction = 'both', trace =FALSE)
+summary(step.model)
+
+
+
+
+library(NbClust)
+
+iris2 = iris[-5]
+iris3 = scale(iris2)
+som_model = som(iris3, grid = somgrid(3,5,"rectangular"))
+
+abc = data.frame(matrix(unlist(som_model$codes), nrow=15, byrow=FALSE))
+
+km <- kmeans(abc, centers = 4)
+km
