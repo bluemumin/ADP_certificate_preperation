@@ -20,7 +20,7 @@
 
 1번 [python 시간 변수 처리](https://bluemumin.github.io/adp/2021/03/08/ADP-20%ED%9A%8C-ADP-%EC%8B%A4%EA%B8%B0-python-%EC%8B%9C%EA%B0%84-%EB%B3%80%EC%88%98-%EC%B2%98%EB%A6%AC/)
 
-2번 [python 통계분석(시계열 정상성 검증)]https://bluemumin.github.io/adp/2021/03/09/ADP-20%ED%9A%8C-ADP-%EC%8B%A4%EA%B8%B0-python-%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D(%EC%8B%9C%EA%B3%84%EC%97%B4-%EC%A0%95%EC%83%81%EC%84%B1-%EA%B2%80%EC%A6%9D)/
+2번 [python 통계분석(시계열 정상성 검증) ](https://bluemumin.github.io/adp/2021/03/09/ADP-20%ED%9A%8C-ADP-%EC%8B%A4%EA%B8%B0-python-%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D(%EC%8B%9C%EA%B3%84%EC%97%B4-%EC%A0%95%EC%83%81%EC%84%B1-%EA%B2%80%EC%A6%9D)/)
 
 3번 [python 통계분석(시계열 ARIMA, 잔차분석)](https://bluemumin.github.io/adp/2021/03/10/ADP-20%ED%9A%8C-ADP-%EC%8B%A4%EA%B8%B0-python-%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D(Arima,-%EC%9E%94%EC%B0%A8%EB%B6%84%EC%84%9D)/)
 
